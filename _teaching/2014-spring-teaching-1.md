@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "TA for RBE 3001 & RBE 3002"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
