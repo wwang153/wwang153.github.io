@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2023-teaching
 venue: "Worcester Polytechnic Institute, Robotics Engineering"
-date: 2023_8_24
+date: 2014-08-24
 location: "Worcester, USA"
 ---
 
