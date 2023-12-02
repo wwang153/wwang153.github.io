@@ -2,7 +2,7 @@
 title: "TA for RBE 3001 & RBE 3002"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2023TA
+permalink: /teaching/2023-teaching
 venue: "Worcester Polytechnic Institute, Robotics Engineering"
 date: "Fall 2023 - Spring 2024"
 location: "Worcester, USA"
