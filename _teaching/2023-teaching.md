@@ -4,13 +4,13 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2023-teaching
 venue: "Worcester Polytechnic Institute, Robotics Engineering"
-date: 2014-08-24
+date: 2023-08-24
 location: "Worcester, USA"
 ---
 
-<!-- This is a description of a teaching experience. You can use markdown like any other post.
+TA RBE 3001 and RBE 3002 for the academic year.
 
-Heading 1
+<!-- Heading 1
 ======
 
 Heading 2
