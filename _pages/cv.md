@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Systems Engineering and Design, University of Illinois Urbana-Champaign, 2021
+* M.S.E in Robotics, Johns Hopkins Univerity, 2023
+* Ph.D in Robotics Engineering, Worcester Polytechnic Institue, 2028 (expected)
 
 Work experience
 ======
