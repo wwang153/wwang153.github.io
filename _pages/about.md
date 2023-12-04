@@ -12,6 +12,6 @@ Hello and welcome to my personal website. I will try to keep this website update
 
 Courses taking now:
 ======
-RBE 501: Robot Dynamics
-RBE 502: Robot Control
-SYS 501: Concepts of Systems Engineering
+* RBE 501: Robot Dynamics
+* RBE 502: Robot Control
+* SYS 501: Concepts of Systems Engineering
