@@ -15,26 +15,22 @@ Education
 * M.S.E in Robotics, Johns Hopkins Univerity, 2023
 * Ph.D in Robotics Engineering, Worcester Polytechnic Institue, 2028 (expected)
 
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2023 - Present: Research Assistant
+  * Cognitive Medical Technology Laboratory
+  * Worcester Polytechnic Institute
+  * Advisor: Loris Fichera
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2022 - Summer 2023: Research Assistant
+  * Laboratory of Biomechanical and Image Guided Surgical Systems
+  * Johns Hopkins University
+  * Advisor: Joshua Liu, Mehran Armand
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* CAD
+* ROS2
 
 Publications
 ======
@@ -42,11 +38,11 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Teaching
 ======
@@ -54,6 +50,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+<!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
