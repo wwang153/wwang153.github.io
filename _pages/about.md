@@ -16,9 +16,8 @@ My current research mainly focused on the topic of shape sensing of the Continuu
 
 
 
-Courses taking now:
+Courses taken @ WPI:
 ======
-I'm currently working on finishing my Technical Qualifier, and here are the classes I'm taking for this semester:
 * RBE 501: Robot Dynamics
   * Instructor: Prof. Andre Rosendo
 * RBE 502: Robot Control
