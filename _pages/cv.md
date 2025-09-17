@@ -11,11 +11,12 @@ redirect_from:
 
 Education
 ======
-* B.S. in Systems Engineering and Design, University of Illinois Urbana-Champaign, 2021
-* M.S.E in Robotics, Johns Hopkins Univerity, 2023
 * Ph.D in Robotics Engineering, Worcester Polytechnic Institue, 2028 (expected)
+* M.S.E in Robotics, Johns Hopkins Univerity, 2023
+* B.S. in Systems Engineering and Design, University of Illinois Urbana-Champaign, 2021
 
-Work experience
+
+Work Experience
 ======
 * Summer 2023 - Present: Research Assistant
   * Cognitive Medical Technology Laboratory
