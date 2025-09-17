@@ -15,7 +15,7 @@ Education
 * M.S.E in Robotics, Johns Hopkins Univerity, 2023
 * Ph.D in Robotics Engineering, Worcester Polytechnic Institue, 2028 (expected)
 
-Research experience
+Work experience
 ======
 * Summer 2023 - Present: Research Assistant
   * Cognitive Medical Technology Laboratory
