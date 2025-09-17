@@ -82,12 +82,14 @@ analytics:
 author:
   name             : "Wenpeng Wang"
   avatar           : "wenpeng.jpg"
-  bio              : "Ph.D. Candidate @ Comet Lab, WPI"
+  bio              : "Ph.D. Candidate @ Comet Lab"
+  laboratory      : "COMET Lab"
+  lab_url         : "https://comet-lab.github.io/"
   location         : "Worcester, MA, USA"
-  employer         :
+  employer         : "Worcester Polytechnic Institute"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=6hqdE9QAAAAJ&hl=en"
-  email            : "wwang11[at]wpi.edu"
+  email            : "wwang11@wpi.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
